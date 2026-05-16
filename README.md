@@ -1,16 +1,33 @@
-# React + Vite
+# 🏥 HealthHustle - Premium Healthcare Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+HealthHustle is a modern, high-end healthcare management platform designed with a sleek, minimalist aesthetic. Moving away from traditional, clunky enterprise sidebars, it features a cutting-edge **Glassmorphic Navigation Dock** and a fully dynamic user experience tailored for modern clinics and hospitals.
 
-Currently, two official plugins are available:
+## ✨ Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+*   **Premium Glassmorphic UI:** A beautiful, responsive user interface utilizing translucent glass effects, smooth transitions, and modern typography.
+*   **Modern Navigation Dock:** A bottom/floating navigation dock that replaces rigid sidebars for a fluid, app-like experience.
+*   **Live Patient Queue Management:** Real-time tracking of patients currently in line, active check-ins, and waiting times.
+*   **Smart Prescription Engine:** An intuitive interface for doctors to generate, review, and issue digital prescriptions instantly.
+*   **Advanced Billing Calculator:** Integrated billing module to calculate consultation fees, medical treatments, and generate detailed invoices.
+*   **Role-Based Access Control (RBAC):** Tailored, secure views and dashboards for Admins, Doctors, and Trainers.
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+*   **Frontend:** React.js, Tailwind CSS (with custom Glassmorphism utilities)
+*   **Backend:** Node.js, Express.js
+*   **Database:** MongoDB
+*   **Icons & Motion:** Lucide React / React Icons, Framer Motion
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Getting Started
+
+Follow these steps to set up the project locally on your machine.
+
+### 1. Prerequisites
+Make sure you have **Node.js** and **npm** installed.
+
+### 2. Clone the Repository
+```bash
+git clone [https://github.com/sanakhan2309/healthhustle.git](https://github.com/sanakhan2309/healthhustle.git)
+cd healthhustle
