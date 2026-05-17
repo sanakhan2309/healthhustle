@@ -19,15 +19,5 @@ HealthHustle is a modern, high-end healthcare management platform designed with 
 *   **Icons & Motion:** Lucide React / React Icons, Framer Motion
 
 ---
-
-## 🚀 Getting Started
-
-Follow these steps to set up the project locally on your machine.
-
-### 1. Prerequisites
-Make sure you have **Node.js** and **npm** installed.
-
-### 2. Clone the Repository
-```bash
 git clone [https://github.com/sanakhan2309/healthhustle.git](https://github.com/sanakhan2309/healthhustle.git)
 cd healthhustle
